@@ -1,0 +1,7 @@
+target/
+logs/
+*.log
+*.db-journal
+*.db-wal
+*.db-shm
+nbproject/private/
